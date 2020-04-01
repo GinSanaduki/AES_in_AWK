@@ -17,13 +17,14 @@ https://www.pjc.co.jp/
 https://free.pjc.co.jp/Java/index.html  
 AES JAVA言語によるサンプルプログラム・ソース・ソフトウェアの配布 PJC  
 
-ライセンスは、移植元がGPL V3でリリースしていたので、GPL V3としています。
+ライセンスは、移植元がGPL V3でリリースしていたので、GPL V3(GNU General Public License)としています。  
+https://www.gnu.org/licenses/gpl-3.0.ja.html  
 
 # gawkと他awkの相互互換のための説明  
 # Description for the mutual compatibility of gawk and other awk  
 
-ビット演算について  
-About bit operations
+* ビット演算について  
+* About bit operations
 
 	* 論理積、論理和、排他的論理和については、以下のリンクに掲載されている実装を参照してください。  
 	* チェック機構までは保証しているわけではないので、そのあたりを突き詰めていると時間ばかりかかって仕方がなかったり、
